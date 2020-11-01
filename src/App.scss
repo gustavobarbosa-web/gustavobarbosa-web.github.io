@@ -404,11 +404,28 @@
         }
     }
 
+    .page .intro {
+        min-height: 0;
+    }
+
     .page .contato .container .info {
         width: 90%;
     }
 
     .page .contato .container .image {
         display: none;
+    }
+
+    .page .intro .intro-text h1 {
+        font-size: 7vw;
+        line-height: 9.5vw;
+    }
+
+    .page .projetos .lista-projetos .projeto img {
+        width: 85%;
+    }
+
+    .page .footer .container {
+        width: 90%;
     }
 }
