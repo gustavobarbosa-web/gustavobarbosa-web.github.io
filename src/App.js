@@ -68,7 +68,7 @@ function App() {
       <div className="habilidades" id="habilidades">
         <div className="container">
           <h2><span>—&nbsp;&nbsp;</span> Habilidades <span>&nbsp;&nbsp;—</span></h2>
-          <h3>Um pouco do que sei fazer</h3>
+          <h3>O que aprendi ao longo dos anos</h3>
           <div className="skills">
             <div className="skill">
               <div className="header">
@@ -195,13 +195,13 @@ function App() {
               <img src={prj1} alt="Sobel Suprema" />
               <div className="descricao">
                 <h4>Sobel Suprema</h4>
-                <p>O projeto <b>Sobel Suprema</b> foi feito em parceria com a empresa <a href="https://www.quattromani.com.br/" target="_blank" rel="noreferrer">Quattromani Digital</a>, com design de Cristian Romanelli, onde utilizei tecnologia PHP + MVC para desenvolver um website que trouxesse as informações da empresa em três idiomas, assim como o catálogo e arquivos de mídia para divulgação de produtos para revendedores da mesma.</p>
+                <p>O projeto <a href="https://www.quattromani.com.br/" target="_blank" rel="noreferrer">Sobel Suprema</a> foi feito em parceria com a empresa <a href="https://www.quattromani.com.br/" target="_blank" rel="noreferrer">Quattromani Digital</a>, com design de <b>Cristian Romanelli</b>, onde utilizei tecnologia PHP + MVC para desenvolver um website que trouxesse as informações da empresa em três idiomas, assim como o catálogo e arquivos de mídia para divulgação de produtos para seus revendedores.</p>
               </div>
             </div>
             <div className="projeto">
               <div className="descricao">
                 <h4>DIV360</h4>
-                <p>Um website de rolagem horizontal desenvolvido como uma <b>landing page</b> para a empresa <a href="http://www.divpropaganda.com.br/div360" target="_blank" rel="noreferrer">DIV Propaganda</a>, com design de Alexandre Preto, que busca ser um cartão de visitas digital da agência, onde o visitante pode visualizar alguns trabalhos desenvolvidos para alguns clientes da empresa.</p>
+                <p>Um website de rolagem horizontal desenvolvido como uma <b>landing page</b> para a empresa <a href="http://www.divpropaganda.com.br/div360" target="_blank" rel="noreferrer">DIV Propaganda</a>, com design de <b>Alexandre Preto</b>, que busca ser um cartão de visitas digital da agência, onde o visitante pode visualizar alguns trabalhos desenvolvidos para alguns clientes da empresa.</p>
               </div>
               <img src={prj2} alt="DIV360" />
             </div>
@@ -209,13 +209,13 @@ function App() {
               <img src={prj3} alt="VDetalhes" />
               <div className="descricao">
                 <h4>VDetalhes</h4>
-                <p>Uma <b>loja virtual</b> desenvolvida em parceria com a empresa <a href="http://www.divpropaganda.com.br/div360" target="_blank" rel="noreferrer">DIV Propaganda</a>, com design de Alexandre Preto, utilizando tecnologia <b>OpenCart</b> integrada aos sistemas dos <b>correios e pagseguro</b> para que o visitante tenha à disposição as informações sobre os produtos, fretes e pagamentos disponibilizados pela empresa.</p>
+                <p>Uma <a href="https://store.vdetalhes.com.br/" target="_blank" rel="noreferrer">loja virtual</a> desenvolvida em parceria com a empresa <a href="http://www.divpropaganda.com.br/div360" target="_blank" rel="noreferrer">DIV Propaganda</a>, com design de <b>Alexandre Preto</b>, utilizando tecnologia <b>OpenCart</b> integrada aos sistemas dos <b>correios e pagseguro</b> para que o visitante tenha à disposição as informações sobre os produtos, fretes e pagamentos disponibilizados pela empresa.</p>
               </div>
             </div>
             <div className="projeto">
               <div className="descricao">
                 <h4>Golden Invest</h4>
-                <p>Desenvolvido para a empresa <b>Golden Invest</b> através da <a href="https://agenciawebsoft.com.br/" target="_blank" rel="noreferrer">Agência Websoft</a>, o website busca informar ao visitante os benefícios dos produtos e serviços da empresa, tirando dúvidas e reforçando a segurança sobre a imagem da empresa.</p>
+                <p>Desenvolvido para a empresa <a href="https://goldeninvest.com.br/" target="_blank" rel="noreferrer">Golden Invest</a> através da <a href="https://agenciawebsoft.com.br/" target="_blank" rel="noreferrer">Agência Websoft</a>, o website busca informar ao visitante os benefícios dos produtos e serviços, tirando dúvidas e reforçando a segurança sobre a imagem da empresa.</p>
               </div>
               <img src={prj4} alt="Golden Invest" />
             </div>
