@@ -195,7 +195,7 @@ function App() {
               <img src={prj1} alt="Sobel Suprema" />
               <div className="descricao">
                 <h4>Sobel Suprema</h4>
-                <p>O projeto <a href="https://www.quattromani.com.br/" target="_blank" rel="noreferrer">Sobel Suprema</a> foi feito em parceria com a empresa <a href="https://www.quattromani.com.br/" target="_blank" rel="noreferrer">Quattromani Digital</a>, com design de <b>Cristian Romanelli</b>, onde utilizei tecnologia PHP + MVC para desenvolver um website que trouxesse as informações da empresa em três idiomas, assim como o catálogo e arquivos de mídia para divulgação de produtos para seus revendedores.</p>
+                <p>O projeto <a href="https://sobelsuprema.com.br/" target="_blank" rel="noreferrer">Sobel Suprema</a> foi feito em parceria com a empresa <a href="https://www.quattromani.com.br/" target="_blank" rel="noreferrer">Quattromani Digital</a>, com design de <b>Cristian Romanelli</b>, onde utilizei tecnologia PHP + MVC para desenvolver um website que trouxesse as informações da empresa em três idiomas, assim como o catálogo e arquivos de mídia para divulgação de produtos para seus revendedores.</p>
               </div>
             </div>
             <div className="projeto">
